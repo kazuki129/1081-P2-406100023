@@ -1,0 +1,25 @@
+#head {
+    font-weight: bold;
+    color: #374c60;
+    padding-top: 20px;
+}
+
+#bd {
+padding-left: 20px;
+}
+
+#content {
+    padding-left: 5%;
+}
+
+.card  {
+    width: 70%;
+    margin: auto;
+    border: 20px solid #bdc3c7;
+    padding: 30px;
+    font-size: 16px;
+}
+h2 {
+    font-weight: bold;
+    color: #374c60;
+}

@@ -1,0 +1,8 @@
+.jumbotron {
+    width: 80%;
+    margin: auto;
+    border: 20px solid #bdc3c7;
+    padding: 100px;
+    font-size: 16px;
+    height: 400px;
+}

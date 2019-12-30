@@ -1,0 +1,49 @@
+#heading {
+    
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #374c60
+  }
+  
+ #section {
+    width: 100%;
+    height: 900px;
+    
+  }
+  
+ #section a {
+    position: relative;
+    margin: 50px;
+  }
+  
+  #heading nav ul {
+    padding: 0px;
+  }
+  
+ #heading nav li {
+    float: left;
+    list-style-type: none;
+    margin: 5px;
+    font-size: 15px;
+  }
+  
+  #heading nav a {
+    padding: 5px;
+ 
+    color: black
+  }
+  
+  #heading nav a:hover {
+    background-color: rgba(99, 182, 238, 0.527);
+  }
+
+  .card  {
+    width: 100%;
+    margin: auto;
+    border: 20px solid #bdc3c7;
+    padding: 30px;
+    font-size: 16px;
+    
+}
+  

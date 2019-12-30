@@ -1,0 +1,43 @@
+.card  {
+    width: 60%;
+    margin: auto;
+    border: 20px solid #bdc3c7;
+    padding: 30px;
+    font-size: 16px;
+    
+}
+
+
+
+.photo{
+    width: 35%;
+    float: left;
+    padding-left: 5%;
+}
+
+
+
+.clearfix {
+    clear: both;
+}
+.information {
+  width: 200%;
+   padding: 50%;
+
+}
+h2{
+    font-size: 2em;
+    font-weight: bold;
+    color: #374c60
+}
+
+h4{
+    
+    font-weight: bold;
+    color: #374c60
+}
+
+.s{
+    font-weight: bold;
+    color: #374c60  
+}
